@@ -1,5 +1,3 @@
-import Minesweeper.GameObject;
-
 import java.awt.*;
 import java.util.ArrayList;
 
